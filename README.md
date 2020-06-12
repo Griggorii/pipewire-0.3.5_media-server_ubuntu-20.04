@@ -12,3 +12,7 @@ sudo tar xvpf pipewire-0.3.5.tar.xz -C /
 and su
 
 tar xvpf pipewire-0.3.5.tar.xz -C /
+
+Command tutorial http://www.linuxfromscratch.org/blfs/view/svn/multimedia/pipewire.html example
+
+example spa-monitor libgstpipewire.so
